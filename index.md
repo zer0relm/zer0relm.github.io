@@ -2,6 +2,8 @@
 layout: default
 ---
 
-[VESgui for XP](./VESgui_xp.exe).
+[VESgui for Windows XP](./VESgui_xp.exe).
 
-<a href="VESgui_xp.exe">Download File</a>
+[VESgui for Windows Vista](./VESgui_Vista.exe).
+
+[VESgui for Windows 7+](./VESgui_W7.exe).
